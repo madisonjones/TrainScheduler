@@ -1,0 +1,31 @@
+body {
+	background-image: url("background.jpg.jpg");
+	background-size: 100% 100%;
+}
+
+.jumbotron {
+	opacity: .7;
+	color: #0d0644;
+	font-family: 'Cinzel', serif;
+	font-weight: bold;
+	
+}
+
+#panelHeading, #panelHeading2 {
+	background-color: #0d0644;
+	opacity: .9;
+	font-family: 'Cinzel', serif;
+	font-size: 22px;
+
+}
+
+.panel {
+	opacity: .9;
+	font-family: 'Cinzel', serif;
+	font-size: 16px;
+}
+
+th {
+	text-align: center;
+}
+
